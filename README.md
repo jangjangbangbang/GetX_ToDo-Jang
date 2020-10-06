@@ -3,8 +3,9 @@
 </br>To Do App created in Flutter
 
 </br>Features:
-</br>• Email Login
-</br>• Firebase Storage
+</br>• GetX Package
+</br>• GetX Storage
+</br>• Firebase Auth
 
 </br>How to use?
 </br>1. Create a To Do list by entering a text and pressing the + icon.
