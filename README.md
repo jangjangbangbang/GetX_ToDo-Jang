@@ -9,5 +9,5 @@
 
 </br>How to use?
 </br>1. Create a To Do list by entering a text and pressing the + icon.
-</br>2. Swipe left/right to delete an item.
-</br>3. Tap the pencil icon to edit.
+</br>2. Edit an item by tapping the pencil icon.
+</br>3. Delete an item by swiping left/right.
