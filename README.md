@@ -1,9 +1,8 @@
 <h1>GetX Todo</h1>
 
-</br>To Do App created in Flutter
+</br>To Do App created in Flutter with GetX Package
 
 </br>Features:
-</br>• GetX Package
 </br>• GetX Storage
 </br>• Firebase Auth
 
